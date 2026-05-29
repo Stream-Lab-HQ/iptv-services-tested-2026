@@ -59,3 +59,6 @@ basis as cycles complete). High-level patterns this cycle:
 - Methodology document (this README) — supersedes 2025 cycle protocol
 - Test scripts: `scripts/` (planned, releasing as redacted variants)
 - Reference customer-facing summary: [streamreviewhq.com](https://streamreviewhq.com)
+
+---
+*Last verified: May 29, 2026*
