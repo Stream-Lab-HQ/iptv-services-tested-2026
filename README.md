@@ -1,5 +1,10 @@
 # IPTV Services Tested — 2026 Lab Cycle
 
+## ⚽ World Cup 2026 is LIVE — Best IPTV to Watch Every Match
+
+The 2026 FIFA World Cup is underway. For HD/4K streaming of every group-stage and knockout match across all host venues, our top tested pick is **[IPTVTheOne — World Cup IPTV Guide](https://iptvtheone.com/best-iptv-world-cup-2026/)**: full match coverage, multi-device, minimal buffering on Firestick, Apple TV and Smart TVs. See the independent tested breakdown at **[StreamReviewHQ — Best IPTV for World Cup 2026](https://streamreviewhq.com/best-iptv-world-cup-2026/)**.
+
+
 > *Methodology, instruments, raw findings. Stream Lab HQ test cycle Q2 2026.*
 
 This is a methodology document with results, not a review. The intent is that
